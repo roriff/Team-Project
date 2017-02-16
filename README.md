@@ -5,6 +5,6 @@ The solution is for 5 systems working independently
 Training System
 Food Ordering System
 Car Booking System
-Insurance Booking Syetm
+Insurance Booking System
 Care Observation System
 
